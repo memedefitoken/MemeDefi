@@ -11,7 +11,8 @@ Twitter: https://twitter.com/memedefitoken
 ---
 
 <details>
-  <summary>Platforms Release: v84 </summary>
+    <a id="v84"></a>
+    <summary>Platforms Release: <a href="#v84">v84</a></summary>
 
 ### Memedefi Web Platform
 
