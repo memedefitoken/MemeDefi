@@ -11,8 +11,24 @@ Twitter: https://twitter.com/memedefitoken
 ---
 
 <details>
-    <a id="v84"></a>
-    <summary>Platforms Release: <a href="#v84">v84</a></summary>
+  <summary>Platforms Release: v85 </summary>
+
+### Memedefi Web Platform
+
+#### Added or Changed
+
+- Integrated EGSwap for ETH tokens.
+- Introduced an advertisement space request form. Projects can now directly order ad placements from memedefi.io. A button on the top bar and a new navigation menu have been added for visiting the Ads page.
+- Added Memedefi user profiles with email/password and Google authentication login methods.
+- Added support for chart height expansion. Users can now drag and adjust the height of the chart iframe.
+- Implemented a user referral system with tracking and statistics.
+- Fixed the layout of the Watchlist.
+- Introduced dynamic advertisement rendering for users with support for 5 Ads rotation.
+- Updated the Top 10 trending and Top 10 gainers lists with ```#ETH```and ```#BNB``` hashtags.
+</details>
+
+<details>
+  <summary>Platforms Release: v84 </summary>
 
 ### Memedefi Web Platform
 

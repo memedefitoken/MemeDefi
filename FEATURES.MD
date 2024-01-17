@@ -20,6 +20,9 @@ Telegram bot: https://t.me/memeDefiBot
 - Token scanner powered by GoPlus (https://gopluslabs.io/)
 - Watchlist / Favorite list support
 - Advanced trading view chart integration
+- Banner and Text based Advertisements
+- User Profiles
+- Referral code and reward system
 
 ## Telegram Bot
 
